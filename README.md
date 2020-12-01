@@ -1,1 +1,1 @@
-# website
+# Eadiz Website
