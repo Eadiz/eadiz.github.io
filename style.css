@@ -14,7 +14,6 @@ html,body{
 .wrapper{
   display: inline-flex;
     transform: translate(-0%, 1090%);
-    width: 100%;
 }
 .wrapper .icon{
   margin: 0 20px;
